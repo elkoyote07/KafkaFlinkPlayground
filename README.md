@@ -18,7 +18,6 @@ Briefly describe what your project is about. Highlight the main features and use
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
@@ -84,8 +83,4 @@ This project incorporates software with the Apache-2.0 license.
 Please ensure compliance with the licensing terms of the Apache-2.0 licensed software when using or contributing to this project.
 
 
-
-## Acknowledgments
-
-Mention and thank any individuals or projects that inspired or contributed to your project.
 
