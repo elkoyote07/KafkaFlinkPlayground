@@ -11,5 +11,5 @@ Following versions of the project are currently being supported with security up
 ## Reporting a Vulnerability
 
 Please **DO NOT** file a publicly available github issues regarding security vulnerabilities.
-Send us details via email (elkoyote07 "at" gmail.com).
+Send us details via email (jesus.sgonzalez "at" owlsline.com).
 Use "Security Vulnerability Report" in the title of an email.
