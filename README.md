@@ -1,6 +1,6 @@
 <img src="KafkaFlinkPlaygroundImage.png" alt="KafkaFlinkPlayground logo" width="600" height="600">  
 
-# KafkaFlinkPlayground&nbsp;
+# Kafka Flink Playground&nbsp;
 
 A friendly playground for experimenting with Kafka and Flink integration and development.
 
