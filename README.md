@@ -1,4 +1,7 @@
-# KafkaFlinkPlayground
+<img src="KafkaFlinkPlaygroundImage.png" alt="KafkaFlinkPlayground logo" width="600" height="600">  
+
+# KafkaFlinkPlayground&nbsp;
+
 A friendly playground for experimenting with Kafka and Flink integration and development.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/elkoyote07/KafkaFlinkPlayground?tab=MIT-1-ov-file)
