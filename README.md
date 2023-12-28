@@ -66,7 +66,7 @@ This project is licensed under the [MIT License](https://github.com/elkoyote07/K
 
 ### Third-Party Licenses
 
-This project incorporates software with the Apache-2.0 license. Please review the licenses of the third-party components in the `third-party-licenses` directory.
+This project incorporates software with the Apache-2.0 license.
 
 #### Apache-2.0 Licensed Software
 
