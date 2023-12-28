@@ -34,7 +34,7 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/elkoyote07/KafkaFlinkPlayground.git
-   cd your-repo
+   cd KafkaFlinkPlayground
    ```
    
 2. Set the necessary permissions for config.yml:
