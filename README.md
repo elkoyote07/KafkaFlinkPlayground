@@ -51,6 +51,13 @@ To get started with this project, follow these steps:
    ```bash
    docker-compose up -d
    ```
+After successfully setting up the project, you can access the following web interfaces:
+
+- **Kafka UI**: Visit [http://localhost:8080](http://localhost:8080) to explore and manage your Apache Kafka topics using the Kafka UI.
+
+- **Flink Dashboard**: Access the Flink Dashboard at [http://localhost:8081](http://localhost:8081) to monitor and manage your Flink jobs and clusters.
+
+Additionally, the Kafka server is running on port 9093. You can configure your Kafka clients to connect to this server for producing and consuming messages.
 
 ## Contributing
 
