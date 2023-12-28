@@ -8,7 +8,7 @@ A friendly playground for experimenting with Kafka and Flink integration and dev
 
 ## Overview
 
-Briefly describe what your project is about. Highlight the main features and use cases. Mention the technologies it involves, such as Kafka, Flink, and Apache.
+Kafka Flink Playground is a user-friendly environment designed for experimenting with Kafka and Flink integration and development. Explore Apache Kafka topics using the Kafka UI, monitor and manage Flink jobs and clusters with the Flink Dashboard, and seamlessly configure the setup through Docker Compose.
 
 ## Table of Contents
 
